@@ -6,7 +6,11 @@ Hakkınızdaki bilgileri çeşitli yollarla toplayabiliriz. Uygulama aracılığ
 ### A. Kişisel Veriler
 Uygulamayı kullanırken bize gönüllü olarak verdiğiniz demografik ve diğer kişisel olarak tanımlanabilir bilgiler:
 *   **Hesap Bilgileri:** Kayıt sırasında (ör. Apple ile Giriş Yap veya Google ile Giriş Yap aracılığıyla) sağlanan ad, e-posta adresi ve profil resmi.
-*   **Yüz Verileri ve Fotoğraflar:** Uygulama, yapay zeka destekli düzenleme efektlerini (yüz şekillendirme, makyaj, ışıklandırma vb.) uygulamak için yüklediğiniz fotoğrafları işler. **Fotoğraflarınızı yapay zeka modellerimizi eğitmek için KULLANMIYORUZ.** Fotoğraflar geçici olarak sunucularımızda işlenir ve düzenleme işlemi tamamlandıktan hemen sonra otomatik olarak kalıcı bir şekilde silinir. Biyometrik olarak tanımlanabilir verileri çıkarmıyoruz, saklamıyoruz veya paylaşmıyoruz.
+*   **Yüz Verileri ve Fotoğraflar:** Uygulama, yapay zeka destekli düzenleme efektlerini (yüz şekillendirme, makyaj, ışıklandırma vb.) uygulamak için yüklediğiniz fotoğrafları işler. Bu işlemler için iki farklı yöntem kullanılmaktadır:
+**Cihaz İçi İşleme:** Bazı temel yüz özellikleri ve düzenlemeleri için Apple Vision Framework kullanılarak işlemler doğrudan cihazınızda (çevrimdışı) yapılır. Bu veriler cihazınızdan asla dışarı çıkmaz.
+**Bulut Tabanlı Yapay Zeka (AI) İşleme:** Gelişmiş yapay zeka efektlerinin uygulanabilmesi için, yalnızca sizin seçtiğiniz fotoğraflar güvenli bir şekilde üçüncü taraf yapay zeka hizmet sağlayıcılarımızın sunucularına iletilir.
+**Verilerin Saklanması ve Paylaşımı:** Üçüncü taraf sunuculara iletilen fotoğraflar yalnızca anlık işleme (istenen efektin uygulanması) amacıyla kullanılır. İşlem tamamlanıp sonuç cihazınıza iletildikten hemen sonra, fotoğraflarınız ve yüz verileriniz bu sunuculardan ve sistemlerimizden anında ve otomatik olarak kalıcı bir şekilde silinir.
+Biyometrik olarak tanımlanabilir verileri çıkarmıyoruz, saklamıyoruz veya hiçbir üçüncü şahısla veri komisyoncusu olarak paylaşmıyoruz. Fotoğraflarınızı veya yüz verilerinizi yapay zeka modellerimizi eğitmek için KULLANMIYORUZ.
 ### B. Türetilmiş Veriler ve Analitik
 Uygulamaya eriştiğinizde sunucularımızın otomatik olarak topladığı bilgiler şunlardır:
 *   Düzenleme alışkanlıkları ve araç kullanımı dahil olmak üzere Uygulamanın ayrılmaz bir parçası olan yerel (native) eylemleriniz.
