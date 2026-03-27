@@ -1,5 +1,5 @@
 # Aura İçin Gizlilik Politikası
-**Son Güncelleme: 6 Mart 2026**
+**Son Güncelleme: 27 Mart 2026**
 AZE Corporation ("biz", "bizim" veya "bizi"), **Aura** mobil uygulamasını ("Uygulama") işletmektedir. Bu Gizlilik Politikası, Uygulamamızı kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı, ifşa ettiğimizi ve koruduğumuzu açıklamaktadır. Lütfen bu Gizlilik Politikasını dikkatlice okuyun. Bu Gizlilik Politikasının şartlarını kabul etmiyorsanız, lütfen uygulamaya erişmeyin.
 ## 1. Topladığımız Bilgiler
 Hakkınızdaki bilgileri çeşitli yollarla toplayabiliriz. Uygulama aracılığıyla toplayabileceğimiz bilgiler şunları içerir:
