@@ -14,6 +14,7 @@ Aura ("we") is a photo editor made by AZE Corporation. This policy explains what
 ## Account and purchases
 - The app creates an anonymous account ID (Firebase Authentication) so your AI credit balance can be kept on our server. If you choose "Sign in with Apple", your Apple ID is linked to that account so your credits survive a phone change. We receive only what Apple shares (optionally your e-mail, possibly a private relay address).
 - Purchases are handled by Apple. We receive a signed transaction from Apple to grant credits and Pro access, and we keep a record of credits bought, granted and spent. We never see your payment details.
+- We use RevenueCat to keep subscription records and measure trials, renewals and refunds. RevenueCat receives your anonymous account ID and your App Store purchase history, never your photos.
 
 ## Analytics, notifications and diagnostics
 - We use Firebase Analytics (app usage events such as "screen viewed", "atmosphere selected", "export saved", "trial started", "purchase") and Firebase Crashlytics (crash reports) to improve the app and measure our ads. No photo content is ever included.
@@ -52,6 +53,7 @@ Aura, AZE Corporation tarafından geliştirilen bir fotoğraf düzenleme uygulam
 ## Hesap ve satın almalar
 - Uygulama, AI kredi bakiyenin sunucumuzda tutulabilmesi için anonim bir hesap kimliği (Firebase Authentication) oluşturur. "Apple ile Giriş"i seçersen Apple kimliğin bu hesaba bağlanır ve telefon değiştirdiğinde kredilerin kaybolmaz. Yalnızca Apple'ın paylaştığını alırız (isteğe bağlı e-posta, gizli yönlendirme adresi olabilir).
 - Satın almaları Apple yönetir. Kredi ve Pro erişimi vermek için Apple'dan imzalı işlem bilgisini alırız; satın alınan, verilen ve harcanan kredilerin kaydını tutarız. Ödeme bilgilerini hiçbir zaman görmeyiz.
+- Abonelik kayıtlarını tutmak ve deneme, yenileme ve iadeleri ölçmek için RevenueCat kullanırız. RevenueCat anonim hesap kimliğini ve App Store satın alma geçmişini alır; fotoğraflarını asla almaz.
 
 ## Analiz, bildirimler ve hata kayıtları
 - Uygulamayı geliştirmek ve reklamlarımızı ölçmek için Firebase Analytics (ekran görüntüleme, atmosfer seçme, dışa aktarma, deneme başlatma, satın alma gibi kullanım olayları) ve Firebase Crashlytics (çökme raporları) kullanırız. Fotoğraf içeriği hiçbir zaman gönderilmez.
