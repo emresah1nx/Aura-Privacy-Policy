@@ -1,6 +1,6 @@
 # Aura Privacy Policy
 
-Last updated: 14 November 2026 · [Türkçe aşağıda](#aura-gizlilik-politikası)
+Last updated: 21 November 2026 · [Türkçe aşağıda](#aura-gizlilik-politikası)
 
 Aura ("we") is a photo editor made by AZE Corporation. This policy explains what happens to your data when you use Aura 2.0 and later.
 
@@ -13,6 +13,7 @@ Aura ("we") is a photo editor made by AZE Corporation. This policy explains what
 
 ## Account and purchases
 - The app creates an anonymous account ID (Firebase Authentication) so your AI credit balance can be kept on our server. If you choose "Sign in with Apple", your Apple ID is linked to that account so your credits survive a phone change. We receive only what Apple shares (optionally your e-mail, possibly a private relay address).
+- You can tell the app your name. This is optional: you can skip it, change it or remove it in Settings at any time. We store it with your account and use it only to greet you in the app and to find your account when you contact support. It is not used for advertising and is not shared with anyone.
 - Purchases are handled by Apple. We receive a signed transaction from Apple to grant credits and Pro access, and we keep a record of credits bought, granted and spent. We never see your payment details.
 - We use RevenueCat to keep subscription records and measure trials, renewals and refunds. RevenueCat receives your anonymous account ID and your App Store purchase history, never your photos.
 
@@ -23,7 +24,7 @@ Aura ("we") is a photo editor made by AZE Corporation. This policy explains what
 
 ## Your choices
 - You can turn off AI processing in Settings at any time.
-- "Delete my data" in Settings deletes every project on the device and your Aura account with its remaining credits. Subscriptions are managed by Apple in your device Settings.
+- "Delete my data" in Settings deletes every project on the device and your Aura account with its remaining credits, and removes your name and e-mail address from our server. Subscriptions are managed by Apple in your device Settings.
 - For any other request about your data (access, correction, deletion under KVKK, GDPR or CCPA), write to us.
 
 ## Older versions
@@ -39,7 +40,7 @@ info@azecorporation.com
 
 # Aura Gizlilik Politikası
 
-Son güncelleme: 14 Kasım 2026
+Son güncelleme: 21 Kasım 2026
 
 Aura, AZE Corporation tarafından geliştirilen bir fotoğraf düzenleme uygulamasıdır. Bu metin, Aura 2.0 ve sonraki sürümleri kullandığında verilerine ne olduğunu açıklar.
 
@@ -52,6 +53,7 @@ Aura, AZE Corporation tarafından geliştirilen bir fotoğraf düzenleme uygulam
 
 ## Hesap ve satın almalar
 - Uygulama, AI kredi bakiyenin sunucumuzda tutulabilmesi için anonim bir hesap kimliği (Firebase Authentication) oluşturur. "Apple ile Giriş"i seçersen Apple kimliğin bu hesaba bağlanır ve telefon değiştirdiğinde kredilerin kaybolmaz. Yalnızca Apple'ın paylaştığını alırız (isteğe bağlı e-posta, gizli yönlendirme adresi olabilir).
+- Uygulamaya adını yazabilirsin. Bu isteğe bağlıdır: atlayabilir, istediğin zaman Ayarlar'dan değiştirebilir ya da silebilirsin. Adını hesabınla birlikte saklarız ve yalnızca uygulamada seni karşılamak ve destek için yazdığında hesabını bulmak için kullanırız. Reklam için kullanılmaz, kimseyle paylaşılmaz.
 - Satın almaları Apple yönetir. Kredi ve Pro erişimi vermek için Apple'dan imzalı işlem bilgisini alırız; satın alınan, verilen ve harcanan kredilerin kaydını tutarız. Ödeme bilgilerini hiçbir zaman görmeyiz.
 - Abonelik kayıtlarını tutmak ve deneme, yenileme ve iadeleri ölçmek için RevenueCat kullanırız. RevenueCat anonim hesap kimliğini ve App Store satın alma geçmişini alır; fotoğraflarını asla almaz.
 
@@ -62,7 +64,7 @@ Aura, AZE Corporation tarafından geliştirilen bir fotoğraf düzenleme uygulam
 
 ## Seçimlerin
 - AI işlemeyi istediğin zaman Ayarlar'dan kapatabilirsin.
-- Ayarlar'daki "Verilerimi sil" cihazdaki tüm projeleri ve kalan kredileriyle birlikte Aura hesabını siler. Abonelikler Apple tarafından cihaz Ayarları'nda yönetilir.
+- Ayarlar'daki "Verilerimi sil" cihazdaki tüm projeleri ve kalan kredileriyle birlikte Aura hesabını siler; adını ve e-posta adresini de sunucumuzdan kaldırır. Abonelikler Apple tarafından cihaz Ayarları'nda yönetilir.
 - Verilerinle ilgili başka her talep için (KVKK, GDPR veya CCPA kapsamında erişim, düzeltme, silme) bize yaz.
 
 ## Eski sürümler
